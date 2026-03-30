@@ -30,7 +30,7 @@
 # <div style="border-bottom: 1px solid rgba(0, 0, 0, 0.2) ;line-height: 50px;">6. Usage</div>
 &ensp;&ensp;If you want to continue training the model, you can run the [model_train.py](https://github.com/ningjin00/TASANet/blob/main/model_train.py) file for training. 
 
-&ensp;&ensp;If you want to test the model, you can run the [model_predict.py](https://github.com/ningjin00/TASANet/blob/main/model_predict.py) file for testing and test model can be directly downloaded  [here](https://pan.baidu.com/s/1UbeafRyUlAtxSRB3_nMRQQ?pwd=8888).
+&ensp;&ensp;If you want to test the model, you can run the [model_predict.py](https://github.com/ningjin00/TASANet/blob/main/model_predict.py) file for testing and test model can be directly downloaded  [here](https://pan.baidu.com/s/1VakCEEU6G1arKLKvSTqVZA?pwd=ndz1).
 # <div style="border-bottom: 1px solid rgba(0, 0, 0, 0.2) ;line-height: 50px;">7. Contact</div>
 &ensp;&ensp;If you have any questions about this work please concat me.
 
